@@ -1,0 +1,24 @@
+.therth_intro_cv {
+    font-weight: 700;
+    text-align: center;
+}
+
+.text-mute {
+    color: #292929;
+    font-weight: 500;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+}
+
+.button {
+    text-align: center;
+}
+
+
+.th-page {
+    text-align: center;
+    background-color: #C8C8C8;
+    align-items: center;
+    display: flex;
+    /* height: 20vw; */
+}

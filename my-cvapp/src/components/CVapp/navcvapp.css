@@ -1,0 +1,14 @@
+.position_for_hr {
+    position: relative;
+}
+
+.hr_for_line {
+    position: absolute;
+    transform: rotate(90deg);
+    width: 80%;
+}
+
+.border_mode {
+    border: 1px solid #cacaca;
+    border-radius: 15px;
+}

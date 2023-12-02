@@ -1,0 +1,10 @@
+.professionEditStyle h4 {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.professionEditStyle li:hover {
+    color: #d4d4d4;
+}

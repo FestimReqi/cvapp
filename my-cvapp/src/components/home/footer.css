@@ -1,0 +1,42 @@
+.listGroupFooter {
+    border: none;
+}
+
+/* 
+change hover in 
+Terms of Use
+Privacy Policy and
+icons
+ */
+
+.forCursorHover a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+.forCursorHover a:hover {
+    text-decoration: none;
+    color: #cacaca;
+    font-weight: 600;
+}
+
+.changeCursorHover img:hover {
+    opacity: 0.5;
+}
+
+/* Navbar
+Free for Comunity and
+About Author
+ */
+
+.listHover a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+.listHover a:hover {
+    color: #cacaca;
+
+}
